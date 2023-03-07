@@ -1,4 +1,5 @@
-The description of the application:
+# The description of the application:
+
 The key point of this project is to educate farmers about those toxic chemicals. By the way, the farmer will know if they use those toxic chemicals, 
 they need to pay more attention. Because the farmers do not wear enough protective equipment when they are applying those chemicals. 
 The skin of the farmers absorbs the sprayed chemicals. This might lead to a lot of chronic diseases, especially cancer.
